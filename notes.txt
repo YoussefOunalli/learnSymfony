@@ -1,0 +1,2 @@
+lunch sumfony with xamp
+http://localhost/symfonytp/tp2/public/
